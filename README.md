@@ -5,8 +5,11 @@ Worldtree.online is a metaverse websocket mirror that enables users to share rea
 TouchDesigner (http://derivative.ca/) - a popular realtime a/v software.
 
 Ws.js - Manages websocket connections within viverse. 
+
 BodyVis.js - Visualizes skeletal tracking data generated in TouchDesigner using mediapipe.
+
 MouseOverTooltip.js - Allows user to embed mouse-over tooltips compatible with the camera manager.
+
 
 Extra Details:
 
