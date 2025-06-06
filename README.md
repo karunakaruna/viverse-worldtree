@@ -13,10 +13,12 @@ Extra Details:
 Ws.js - Websocket Manager for Viverse and Worldtree
   - Websocket target server and port can be customized in the script details panel.
   - Websocet servers must be added to the viverse white-list. Worldtree.online is added by default.
+
 BodyVis.js - Visualizes skeletal tracking data generated in TouchDesigner using mediapipe.
   - Visualizes a basic skeleton
   - 14 Tracking points.
   - <= 60fps json data.
+
 MouseOverTooltip.js - Mouse-over tooltips
   - Requires the camera manager. (Link incoming)
   - Title and details are added in the script field panel. 
